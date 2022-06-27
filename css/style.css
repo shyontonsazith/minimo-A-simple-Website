@@ -50,3 +50,27 @@ margin-top: 10px;
 }
 
 .menu ul li a :hover{}
+.coverPhoto{
+margin-top: 70px;
+}
+.coverPhoto img{
+    width: 100%;
+}
+.gateway{
+margin-top: 100px;
+}
+.gateway h4{
+    color: #c7c1b6;
+}
+.gateway h2{
+    margin-top: 37px;
+    margin-bottom: 37px;
+    text-align: justify;
+    color: #626262;
+    font-size: 30pt;
+
+}
+.gateway p{
+margin-bottom: 50px;
+
+}
